@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palkkavahti</string>
+    <string-array name="alue">
+        <item>Pääkaupunkiseutu</item>
+        <item>Muu suomi</item>
+    </string-array>
+</resources>
